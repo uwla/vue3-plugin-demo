@@ -1,6 +1,7 @@
 <template>
   <h1>Vue3 Plugin Demo App</h1>
   <p>This is the demo app.</p>
+  <my-outer-component msg="awesome, it works!" />
 </template>
 
 <script>
