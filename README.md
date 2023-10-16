@@ -20,7 +20,7 @@ git clone https://github.com/uwla/vue3-plugin
 Build the plugin:
 
 ```
-cd vue3-plugin && npm install && npm build
+cd vue3-plugin && npm install && npm run build
 ```
 
 Then, install the plugin as a dependency:
